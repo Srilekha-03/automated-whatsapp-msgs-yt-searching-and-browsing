@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('91**********',"msg you wanna text",time you want the msg to be sent IST)
